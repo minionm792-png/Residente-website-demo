@@ -22,7 +22,7 @@ export default function Hero() {
       {/* Background Graphic overlay with warm sepia glow to match off-white aesthetic */}
       <div className="absolute inset-0 z-0">
         <img
-          src="/src/assets/images/residente_hero_1780551609409.png"
+          src="/assets/images/residente_hero_1780551609409.png"
           alt="Residente Cafe Ambiance"
           className="w-full h-full object-cover opacity-20 filter sepia brightness-110 saturate-75 contrast-[90%] scale-100 transition-all duration-1000"
           referrerPolicy="no-referrer"

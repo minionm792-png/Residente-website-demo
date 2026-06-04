@@ -73,7 +73,7 @@ export default function About() {
             {/* Main Styled Arched Photo to match the design's distinctive window frame arch */}
             <div className="relative rounded-t-[200px] overflow-hidden shadow-xl border border-coffee-ochre/20 max-w-full bg-coffee-dark">
               <img
-                src="/src/assets/images/residente_latte_1780551631700.png"
+                src="/assets/images/residente_latte_1780551631700.png"
                 alt="Spanish Latte at Residente Cafe"
                 className="w-full object-cover aspect-[4/5] hover:scale-105 transition-all duration-700"
                 referrerPolicy="no-referrer"

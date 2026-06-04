@@ -156,7 +156,7 @@ export default function AestheticSpace() {
                 
                 {/* Generated Background Workspace Image overlay */}
                 <img
-                  src="/src/assets/images/residente_workspace_1780551648899.png"
+                  src="/assets/images/residente_workspace_1780551648899.png"
                   alt="Residente Coworking Plan"
                   className="w-full h-full object-cover opacity-15 filter grayscale contrast-125 saturate-50"
                   referrerPolicy="no-referrer"
