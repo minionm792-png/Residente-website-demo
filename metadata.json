@@ -1,0 +1,6 @@
+{
+  "name": "Residente Cafe",
+  "description": "An elegant, interactive website for Residente Café, an organic neighborhood sanctuary and coffee kitchen in Cebu, Philippines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
